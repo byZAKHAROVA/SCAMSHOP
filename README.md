@@ -1,0 +1,2 @@
+# SCAMSHOP
+-fan-site
