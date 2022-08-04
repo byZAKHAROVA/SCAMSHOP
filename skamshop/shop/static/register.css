@@ -1,0 +1,110 @@
+.design h1 {
+    position: absolute;
+width: 440px;
+height: 60px;
+left: 545px;
+top: 144px;
+
+font-family: 'Chakra Petch';
+font-style: normal;
+font-weight: 300;
+font-size: 64px;
+line-height: 83px;
+
+color: #D5D5D5;
+}
+
+.design figure {
+    position: absolute;
+    width: 434px;
+    height: 434px;
+    left: 168px;
+    top: 600px;
+    border-radius: 360px;
+
+    background: radial-gradient(106.01% 106.01% at 71.1% 6.86%, #ADFF00 0%, rgba(40, 40, 39, 0) 100%)
+
+}
+
+.design p {
+    position: absolute;
+    width: 309px;
+    height: 309px;
+    left: 1001px;
+    top: 63px;
+    border-radius: 360px;
+
+background: radial-gradient(77.18% 77.18% at 5.66% 30.58%, #552FA7 0%, rgba(78, 0, 244, 0.0677083) 77.48%, rgba(100, 27, 255, 0) 100%)
+}
+
+.design span {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 636px;
+    height: 721px;
+    left: 447px;
+    top: 130px;
+
+    background: rgba(217, 217, 217, 0.1);
+    backdrop-filter: blur(1000px);
+    border-radius: 40px;
+}
+
+.design a {
+    position: absolute;
+width: 425px;
+height: 53px;
+left: 600px;
+top: 300px;
+
+background: #221D1D;
+
+}
+
+.design h2 {
+    position: absolute;
+width: 425px;
+height: 53px;
+left: 600px;
+top: 370px;
+
+background: #221D1D;
+}
+
+.design h3 {
+    position: absolute;
+width: 425px;
+height: 53px;
+left: 600px;
+top: 460px;
+
+background: #221D1D;
+}
+
+.design h4 {
+    position: absolute;
+width: 425px;
+height: 53px;
+left: 552px;
+top: 615px;
+
+background: #221D1D;
+}
+
+.design h5 {
+    box-sizing: border-box;
+
+position: absolute;
+width: 476px;
+height: 65px;
+left: 535px;
+top: 710px;
+
+background: #221D1D;
+border: 3px solid #000000;
+border-radius: 40px;
+}
+
+
+

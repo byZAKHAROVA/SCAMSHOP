@@ -1,0 +1,324 @@
+
+
+.main h1 {
+  position: absolute;
+  width: 694px;
+  height: 328px;
+  left: 43px;
+  top: 200px;
+
+  font-family: 'Chakra Petch';
+  font-style: normal;
+  font-weight: 800px;
+  font-size: 100px;
+  line-height: 166px;
+
+  color: #000000;
+}
+
+
+
+.main h2 {
+  position: absolute;
+  width: 694px;
+  height: 221px;
+  left: 50px;
+  top: 310px;
+
+  font-family: 'Chakra Petch';
+  font-style: normal;
+  font-weight: 200px;
+  font-size: 30px;
+  line-height: 166px;
+}
+
+
+.main span {
+  position: absolute;
+width: 1953.21px;
+height: 40.28px;
+left: -43.58px;
+top: 1077px;
+
+font-family: 'Chakra Petch';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 42px;
+
+color: #ADFF00;
+
+transform: rotate(15deg);
+position: absolute;
+width: 2094.62px;
+height: 50px;
+left: -239.06px;
+top: 1021px;
+
+background: #000000;
+transform: rotate(15deg);
+}
+
+
+.main h3 {
+  position: absolute;
+width: 225.08px;
+height: 0px;
+left: 10px;
+top: 1392px;
+
+border: 11px solid #000000;
+transform: rotate(90deg);
+
+
+/* Line 3 */
+
+position: absolute;
+width: 35.01px;
+height: 0px;
+left: 18px;
+top: 1617px;
+
+border: 11px solid #000000;
+
+
+/* Line 4 */
+
+position: absolute;
+width: 35.01px;
+height: 0px;
+left: 18px;
+top: 1401px;
+
+border: 11px solid #000000;
+
+}
+
+.main img {
+  position: fixed;
+  right: 0px;
+  left: 0px;
+  width: 1430px;
+  height: 1000px;
+}
+
+.explain h1 {
+  position: absolute;
+  width: 656px;
+  height: 175px;
+  left: 45px;
+  top: 1401px;
+
+  font-family: 'Chakra Petch';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+
+  background: radial-gradient(90% 70% at 70% 70%, #000000 99.99%, #ADFF00 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+
+}
+
+
+.explain h2 {
+  position: absolute;
+width: 809px;
+height: 196px;
+left: 554px;
+top: 1000px;
+
+font-family: 'Chakra Petch';
+font-style: normal;
+font-weight: 700;
+font-size: 128px;
+line-height: 166px;
+
+color: #000000;
+
+position: absolute;
+width: 1300px;
+height: 71px;
+left: 537px;
+top: 1700px;
+
+background: #ADFF00;
+
+}
+
+.explain a {
+  position: absolute;
+width: 454px;
+height: 750px;
+left: 31px;
+top: 2100px;
+
+background: url(assets/girl.png);
+}
+
+.explain p {
+  position: absolute;
+width: 450px;
+height: 55px;
+left: 5px;
+top: 710px;
+
+font-family: 'Chakra Petch';
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 52px;
+
+color: #000000;
+}
+.explain img {
+   position: absolute;
+width: 750px;
+height: 410px;
+left: 500px;
+top: 0px;
+
+background: url(assets/yatch.png)
+ }
+
+.explain h6 {
+  position: absolute;
+  width: 753px;
+  height: 83px;
+  left: 510px;
+  top: 320px;
+
+  font-family: 'Chakra Petch';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 52px;
+
+  color: #000000;
+}
+
+.morepics a {
+  position: absolute;
+width: 350px;
+height: 350px;
+left: 537px;
+top: 2600px;
+background: url(assets/nft.png)
+}
+
+.morepics p {
+  position: absolute;
+  width: 448px;
+  height: 58px;
+  left: 5px;
+  top: 310px;
+
+  font-family: 'Chakra Petch';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 52px;
+
+  color: #000000;
+}
+
+.moreepics a {
+  position: absolute;
+width: 350px;
+height: 480px;
+left: 1007px;
+top: 2600px;
+
+background: url(assets/girlfriend.png);
+}
+
+.moreepics p {
+  position: absolute;
+  width: 478px;
+  height: 44px;
+  left: 5px;
+  top: 440px;
+
+  font-family: 'Chakra Petch';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 52px;
+
+  color: #000000;
+}
+.ending p {
+  position: absolute;
+  width: 853.95px;
+  height: 166.52px;
+  left: 327px;
+  top: 3218.58px;
+
+  background: #010101;
+  transform: rotate(-11.52deg);
+
+}
+.ending h1 {
+position: absolute;
+width: 699px;
+height: 99px;
+left: 449px;
+top: 3260px;
+
+font-family: 'Chakra Petch';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+
+color: #ADFF00;
+
+}
+
+.ending h2 {
+  position: absolute;
+width: 901px;
+height: 259px;
+left: 18px;
+top: 3607px;
+
+font-family: 'Chakra Petch';
+font-style: normal;
+font-weight: 700;
+font-size: 96px;
+line-height: 125px;
+
+color: #000000;
+
+}
+
+.ending h3 {
+  position: absolute;
+  left: 610px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+
+  background: #000000;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 30px;
+
+  font-family: 'Chakra Petch';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 62px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  top: 4100px;
+  position: relative;
+  width: 220px;
+  height: 118px;
+  color: #ADFF00;
+  filter: drop-shadow(7px 4px 5px rgba(0, 0, 0, 0.25));
+
+}
